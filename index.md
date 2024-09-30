@@ -31,7 +31,7 @@ This analysis was performed using Python and a powerful group of Python librarie
 
 The data used in this analysis was retrieved from freely available data from Kaggle website. <https://www.kaggle.com/rsrishav/youtube-trending-video-dataset/version/430>.
 
-**Github:** https://github.com/RonakDedhiya/YouTube_Trending_Video_Spark_Data_Analysis
+**Github:** [Link](https://github.com/RonakDedhiya/YouTube_Trending_Video_Spark_Data_Analysis)
 
 **Data Size and Description**
 
